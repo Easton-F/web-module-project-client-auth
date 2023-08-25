@@ -1,7 +1,7 @@
 import React from "react"
 
-const AddFriends = () => {
+const AddFriend = () => {
     return (<h2>Add Friends</h2>)
   }
 
-export default AddFriends;
+export default AddFriend;
